@@ -1,0 +1,6 @@
+{
+  "name": "Viz",
+  "description": "An elegant, premium, ultra-fast Super App featuring an intelligent Command Center, 50+ professional tools, and state-of-the-art AI features like the Smart Song Finder, Advanced AI Translator, and AI Calorie Dietitian.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
